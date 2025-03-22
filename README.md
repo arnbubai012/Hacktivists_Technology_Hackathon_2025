@@ -1,0 +1,2 @@
+# Hacktivists_Technology_Hackathon_2025
+Codebase for Hacktivists Team

@@ -1,0 +1,13 @@
+pandas
+openpyxl
+langgraph
+langchain
+langchain_community
+langchainhub
+ipykernel
+langchain_groq
+langchain_core
+duckduckgo-search
+dotenv
+fastapi
+uvicorn

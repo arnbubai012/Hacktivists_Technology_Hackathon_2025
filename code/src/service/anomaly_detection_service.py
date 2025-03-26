@@ -4,7 +4,7 @@ from langchain_groq import ChatGroq
 from datetime import datetime
 class AnomalyDetectionService():
     def __init__(self):
-        self.llm=ChatGroq(model="llama3-8b-8192",api_key="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") 
+        self.llm=ChatGroq(model="llama3-8b-8192",api_key="<GROQ_API_KEY>") 
     def analyse_anomaly_take_action(self,real_time_data_df,historical_data_df):
         return(self.start_workflow({
             'real_time_data_df': real_time_data_df,
